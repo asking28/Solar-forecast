@@ -1,2 +1,5 @@
 # Solar_forecast
-Solar Energy Foecast Using Machine Learning
+Solar Energy Forecast Using Machine Learning
+Ridge Regression Model
+SkLearn Regression Model
+Keras Neural Network Model
