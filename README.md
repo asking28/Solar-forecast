@@ -1,5 +1,7 @@
 # Solar Energy forecasting
-This Repository Contains:- <br />                                                                                                                      
+### Results Links at the last. <br/>
+This Repository Contains:- <br />       
+
 Solar Energy Forecast Using Machine Learning <br/>
 Ridge Regression Model <br />
 sklearn Regression Model <br />
@@ -35,4 +37,8 @@ Types-
 3.	**Mid Term (upto 1 week ahead)**- Mid Term forecasting would be useful for e.g. maintenance, scheduling of PV power plants, conventional power plants, transformers and transmission lines.
 4.	**Long Term (upto months to year)**- Long term prediction for long term solar energy assessment and PV plant planning.
 
-
+## Results
+[Actual Values](https://github.com/asking28/Solar_forecast/blob/master/original.jpg) <br/>
+[Predicted Values](https://github.com/asking28/Solar_forecast/blob/master/Predict.jpg) <br/>
+[Comparison](https://github.com/asking28/Solar_forecast/blob/master/comparison.jpg) <br/>
+[Error Rates For different Hyper Parameters](https://github.com/asking28/Solar_forecast/blob/master/cost.jpg) <br/>
